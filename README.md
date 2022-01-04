@@ -55,7 +55,7 @@ Pod Volumes -- https://kubernetes.io/docs/concepts/storage/volumes/
 
 PV PVC -- https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
 
-Ingress -- https://kubernetes.io/docs/concepts/services-networking/ingress/
+Ingress --secretName for tls-- https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 
 ## Useful Commands
