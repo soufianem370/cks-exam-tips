@@ -221,6 +221,10 @@ vim /etc/kubernetes/manifests/kube-apiserver.yaml
 <details><summary>show</summary>
 <p>
 
+vim /etc/kubernetes/manifests/kube-apiserver.yaml
+  
+  - --enable-admission-plugins=NodeRestriction,ImagePolicyWebhook,PodSecurityPolicy
+  
 ```yaml
 vim  nopriv-psp.yml
 apiVersion: policy/v1beta1
