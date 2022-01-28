@@ -444,3 +444,6 @@ spec:
 - Create a Network Policy
 - Get a Username, Password from an Existing Secret. Create a Secret and Mount It to a Pod
 - automountServiceAccountToken: false
+=================================
+  
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjusLzZt9P1AhXyUd8KHdIJBOE4ChAWegQIERAB&url=http%3A%2F%2Fjapan-heel-go.biz%2Fbmve&usg=AOvVaw08ZFVRMz8ZuJdrjMunFojx
